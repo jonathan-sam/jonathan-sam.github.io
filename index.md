@@ -1,8 +1,9 @@
-
-### PhD Candidate, Environmental Systems
-### University of California, Merced
-
 This webpage is a work in progress...
+
+#### About Me
+
+I am a PhD Candidate in the Environmental Systems Graduate Group at UC Merced. I study wildfires and climate change 
+and my current projects look at modeling burn severity in California. [Curriculum Vitae](https://jonathan-sam.github.io/files/Sam_Jonathan_CV.pdf)
 
 Follow me on:
 [Twitter](https://twitter.com/jonathan_sam_)

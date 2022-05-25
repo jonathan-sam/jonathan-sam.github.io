@@ -19,8 +19,8 @@ Abstract:
 *In Progress*
 
 ### Where to find me:
-<jsam@ucmerced.edu>
-[Twitter](https://twitter.com/jonathan_sam_)
+Email: <jsam@ucmerced.edu>
+Socials: [Twitter](https://twitter.com/jonathan_sam_)
 [Linkedin](https://www.linkedin.com/in/jonathan-sam-187262a6/)
 
 ***hi ashley***

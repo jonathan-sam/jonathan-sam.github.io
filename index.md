@@ -15,7 +15,7 @@ Abstract:
 Abstract:  
 [Repository](https://github.com/jonathan-sam/Simulating-30m-Burn-Severity)
 
-#### Estimating Burn Severity Fractions
+#### Projecting burn severity maps with downscaled GCM data
 *In Progress*
 
 ### Where to find me:

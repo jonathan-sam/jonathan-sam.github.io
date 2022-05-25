@@ -3,7 +3,7 @@ This webpage is a work in progress...
 ### About Me
 
 I am a PhD Candidate in the Environmental Systems Graduate Group at UC Merced. I study wildfires and climate change 
-and my current projects look at modeling burn severity in California. [Curriculum Vitae](https://jonathan-sam.github.io/files/Sam_Jonathan_CV.pdf)
+and my current projects look at modeling burn severity in California. [CV](https://jonathan-sam.github.io/files/Sam_Jonathan_CV.pdf)
 
 ### Current Projects
 
@@ -23,6 +23,4 @@ Email: <jsam@ucmerced.edu>
 Socials: [Twitter](https://twitter.com/jonathan_sam_)
 [Linkedin](https://www.linkedin.com/in/jonathan-sam-187262a6/)
 
-### News Articles
-[Badminton](https://www.mercurynews.com/2013/05/28/play-in-ccs-sam-twins-spark-tiger-netters/)  
-***hi ashley***
+

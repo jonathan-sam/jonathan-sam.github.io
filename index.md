@@ -23,4 +23,6 @@ Email: <jsam@ucmerced.edu>
 Socials: [Twitter](https://twitter.com/jonathan_sam_)
 [Linkedin](https://www.linkedin.com/in/jonathan-sam-187262a6/)
 
+### News Articles
+[Badminton](https://www.mercurynews.com/2013/05/28/play-in-ccs-sam-twins-spark-tiger-netters/)  
 ***hi ashley***
